@@ -21,3 +21,4 @@ As a wannabe-polymath, I spend my free time studying subjects outside of compute
 ## 🌐 Connect with Me
 
 - **GitHub:** [@makrothegit](https://github.com/makrothegit)
+- **LinkedIn:** [https://www.linkedin.com/in/msalsgiver05/]
