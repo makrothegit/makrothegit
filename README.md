@@ -2,7 +2,7 @@
 
 ## 👨‍💻 About Me
 
-Passionate Comp-Sci Freshman who is looking to broaden their horizons. I craft code, build things, and enjoy the journey of constant learning. Currently looking to help where I can and build my presence on GitHub.
+Passionate Comp-Sci Sophomore who is looking to broaden their horizons. I craft code, build things, and enjoy the journey of constant learning. Currently looking to help where I can and build my presence on GitHub.
 
 ## 🚀 Current Focus
 
