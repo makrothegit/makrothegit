@@ -2,7 +2,7 @@
 
 ## 👨‍💻 About Me
 
-Passionate Comp-Sci Sophomore who is looking to broaden their horizons. I craft code, build things, and enjoy the journey of constant learning. Currently looking to help where I can and build my presence on GitHub.
+Passionate Comp-Sci Junior who is constantly looking to broaden their horizons. I craft code, build things, and pursue education above all else. Currently looking to help where I can and build my presence on GitHub.
 
 ## 🚀 Current Focus
 
@@ -10,13 +10,13 @@ Currently pursuing a Bachelor's degree in Computer Science while picking up a mi
 
 ## 💡 Fun Fact
 
-As an aspiring polymath, I spend my free time studying subjects outside of computer science including philosophy, political science, physics, personal finance, and much more.
+As an aspiring polymath, I spend my free time studying subjects outside of computer science including philosophy, photography, political science, personal finance, and much more.
 
 ## 🛠️ Tech Toolbox
 
-- **Languages:** Java, C++, Python
+- **Languages:** Java, JavaScript, C#, C++, Python, SQL
 - **Frontend:** HTML, CSS
-- **Tools:** Visual Studio Code, Apache NetBeans, IntelliJ
+- **Tools/Frameworks:** Visual Studio Code, Apache NetBeans, IntelliJ, Azure, SQL Server Management Studio, ASP.NET
 
 ## 🌐 Connect with Me
 
