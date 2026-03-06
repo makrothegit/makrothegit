@@ -6,7 +6,7 @@ Passionate Comp-Sci Junior who is constantly looking to broaden their horizons. 
 
 ## 🚀 Current Focus
 
-Currently pursuing a Bachelor's degree in Computer Science while picking up a minor in Cybersecurity.
+Currently pursuing a Bachelor's degree in Computer Science while picking up a minor in both Cybersecurity and Philosophy.
 
 ## 💡 Fun Fact
 
@@ -16,7 +16,7 @@ As an aspiring polymath, I spend my free time studying subjects outside of compu
 
 - **Languages:** Java, JavaScript, C#, C++, Python, SQL
 - **Frontend:** HTML, CSS
-- **Tools/Frameworks:** Visual Studio Code, Apache NetBeans, IntelliJ, Azure, SQL Server Management Studio, ASP.NET
+- **Tools/Frameworks:** Visual Studio Code, Apache NetBeans, IntelliJ, Azure, SQL Server Management Studio, ASP.NET, REACT.js
 
 ## 🌐 Connect with Me
 
