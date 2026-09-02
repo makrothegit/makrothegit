@@ -14,9 +14,11 @@ As an aspiring polymath, I spend my free time studying subjects outside of compu
 
 ## 🛠️ Tech Toolbox
 
-- **Languages:** Java, JavaScript, C#, C++, Python, SQL
-- **Frontend:** HTML, CSS
-- **Tools/Frameworks:** Visual Studio Code, Apache NetBeans, IntelliJ, Azure, SQL Server Management Studio, ASP.NET, REACT.js
+- Languages: Java, JavaScript, C, C++, C#, Python, Bash, HTML5, CSS, SQL, Assembly
+- Tools/Frameworks: Tree-Sitter, Visual Studio, IntelliJ, NetBeans, Replit, ASP.NET, Git, GitHub, Azure DevOps,
+WordPress, Microsoft Office, Google Suite
+- Operating Systems: Windows, macOS, ChromeOS, Linux (Ubuntu, Debian, Kali)
+- Other: Inventory Management Systems, Networking Tools (Wireshark, Netcat), Project Management (Agile, Scrum)
 
 ## 🌐 Connect with Me
 
