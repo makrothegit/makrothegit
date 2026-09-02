@@ -2,7 +2,7 @@
 
 ## 👨‍💻 About Me
 
-Passionate Comp-Sci Junior who is constantly looking to broaden their horizons. I craft code, build things, and pursue education above all else. Currently looking to help where I can and build my presence on GitHub.
+Passionate Comp-Sci Senior who is constantly looking to broaden their horizons. I craft code, build things, and pursue education above all else. Currently looking to help where I can and build my presence on GitHub.
 
 ## 🚀 Current Focus
 
